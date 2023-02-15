@@ -546,4 +546,7 @@ hr {
     background-position: center;
     height: 100vh;
   }
+  .testimonial-col {
+    flex-basis: 100%;
+  }
 }
