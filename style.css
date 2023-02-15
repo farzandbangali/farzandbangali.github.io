@@ -445,7 +445,7 @@ hr {
   transform: translateY(-7px);
 }
 
-./ @media screen and (max-width: 770px) {
+@media screen and (max-width: 770px) {
   .testimonial-col {
     flex-basis: 100%;
   }
